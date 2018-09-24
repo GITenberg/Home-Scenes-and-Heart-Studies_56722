@@ -1,10 +1,13 @@
 _repo: Home-Scenes-and-Heart-Studies_56722
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Briscoe, Hyde W.
     gutenberg_agent_id: '49003'
     url: http://www.gutenberg.org/2009/agents/49003
+covers:
+- cover_type: archival
+  image_path: 56722-h/images/cover.jpg
 creator:
   author:
     agent_name: Aguilar, Grace
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4336
     wikipedia: http://en.wikipedia.org/wiki/Grace_Aguilar
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56722#Home-Scenes-and-Heart-Studies
 gutenberg_issued: '2018-03-11'
 gutenberg_type: Text
 identifiers:
